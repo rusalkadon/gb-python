@@ -8,6 +8,9 @@ def sum_numbers():
     total_sum = 0
 
     while True:
+        if total_sum != 0:
+            print(f"Общая сумма: {total_sum}")
+
         user_input = input("Введите числа, разделенные пробелом, или 'q' для выхода: ")
 
         if user_input.lower() == 'q':
@@ -23,3 +26,6 @@ def sum_numbers():
             continue
 
     print(f"Общая сумма: {total_sum}")
+
+
+sum_numbers()

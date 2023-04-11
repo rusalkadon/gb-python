@@ -9,3 +9,7 @@ def exe_1(a, b):
         return 'No value'
 
 
+x1 = int(input("Введите первое число: "))
+x2 = int(input("Введите второе число: "))
+res = exe_1(x1, x2)
+print(res)

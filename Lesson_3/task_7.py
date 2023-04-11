@@ -4,6 +4,7 @@
 def int_func(word):
     return word.capitalize()
 
+
 input_str = input("Введите строку из слов, разделенных пробелом: ")
 
 words = input_str.split()

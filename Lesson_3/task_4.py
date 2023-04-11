@@ -13,3 +13,7 @@ def my_func(x, y):
     if y < 0:
         return 1 / result
     return result
+
+
+res = my_func(3, -5)
+print(res)
