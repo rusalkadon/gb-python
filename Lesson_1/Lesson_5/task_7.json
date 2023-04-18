@@ -1,0 +1,25 @@
+[
+  {
+    "Company1": 300000.0,
+    "ABC_Ltd.": 600000.0,
+    "FirmX": 1000000.0,
+    "BusinessCo": 30000.0,
+    "IndustryCorp": 400000.0,
+    "The_Group": 1000000.0,
+    "FinanceInc": 50000.0,
+    "TechSolutions": 600000.0,
+    "The_Enterprise": 10000.0,
+    "DevelopmentCo": 500000.0,
+    "ITCompany": 200000.0,
+    "Holdings": 30000000.0,
+    "CommunicationsCo": 400000.0,
+    "EnergyCorp": 3000000.0,
+    "RetailCo": 30000.0,
+    "ManufacturingInc": 1000000.0,
+    "The_Agency": 40000.0,
+    "Global_Enterprises": 5000000.0
+  },
+  {
+    "average_profit": 2453333.3333333335
+  }
+]
